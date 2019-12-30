@@ -55,6 +55,9 @@
     "url": "https://github.com/sveltejs/svelte/issues"
   },
   "homepage": "https://github.com/sveltejs/svelte#README",
+  "dependencies": {
+    "css-tree": "1.0.0-alpha22"
+  },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^11.0.0",
     "@rollup/plugin-json": "^4.0.1",
@@ -72,7 +75,6 @@
     "c8": "^5.0.1",
     "code-red": "0.0.27",
     "codecov": "^3.5.0",
-    "css-tree": "1.0.0-alpha22",
     "eslint": "^6.3.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-svelte3": "^2.7.3",
