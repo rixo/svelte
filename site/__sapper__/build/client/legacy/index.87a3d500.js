@@ -1,0 +1,1 @@
+import"./typeof.ab799a4a.js";import{_ as t,a,b as s,c as i,i as r,s as n,d as o,S as e,n as u}from"./index.db006978.js";function c(t){return{c:u,l:u,m:u,p:u,i:u,o:u,d:u}}function f(){this.redirect(301,"tutorial/basics")}var l=function(u){function f(t){var e;return a(this,f),e=s(this,i(f).call(this)),r(o(e),t,null,c,n,[]),e}return t(f,e),f}();export default l;export{f as preload};

@@ -1,0 +1,1 @@
+import{S as s,i as t,s as r,n as e}from"./index.4b91315e.js";function i(s){return{c:e,l:e,m:e,p:e,i:e,o:e,d:e}}function n(){this.redirect(301,"tutorial/basics")}export default class extends s{constructor(s){super(),t(this,s,null,i,r,[])}}export{n as preload};
